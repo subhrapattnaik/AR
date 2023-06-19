@@ -29,7 +29,7 @@ https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples
 
 ***********************************************************
 
-Image Tracking Ar
+Image Tracking Ar (videos you can show after scanning)
 
 
 \
