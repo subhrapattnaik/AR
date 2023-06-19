@@ -2,19 +2,19 @@
 
 
 Marker based AR:
-○ Hiro & Kanji Marker
-○ Pattern Marker
-○ Barcode marker
+○ Hiro & Kanji Marker \
+○ Pattern Marker \
+○ Barcode marker  \
 
 
 --------------------------- \
-Markerless AR:
-○ Location based
-○ Face Recognition
+Markerless AR:\
+○ Location based\
+○ Face Recognition\\
 
 ------------------------------\
 
-Image tracking based AR.
+Image tracking based AR.\
 ---------------------------------\
 -******************************************************************
 
