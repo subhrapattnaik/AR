@@ -40,3 +40,11 @@ https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar-nft.js
 https://github.com/whitehatjr/PRO-C167-Teacher-Ref
 \
 ********************************************************************
+
+Hiro marker
+\
+
+https://github.com/whitehatjr/PRO-C166-Teacher-Ref
+
+\
+_________________--------------------------------------------
