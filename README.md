@@ -67,3 +67,13 @@ https://github.com/artoolkit/ARToolKit5/tree/master/doc/patterns/Matrix%20code%2
 
 \
 ----------------------------
+
+location based AR
+
+\
+https://github.com/whitehatjr/PRO-C180-Code-Ref
+
+\
+----------------------------------
+
+
